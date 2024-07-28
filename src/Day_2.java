@@ -1,7 +1,7 @@
 /*
 Input Format
 
-There are three lines of input:
+There are three lines of input:->
 
 1= The first line contains an integer.
 2= The second line contains a double.
