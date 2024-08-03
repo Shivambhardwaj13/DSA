@@ -27,7 +27,7 @@ For each line, print the line number, followed by a single space, and then the l
 
 import java.util.Scanner;
 
-public class Class_7 {
+public class Day_7 {
 	public static void main(String [] args){
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter as u wish");
