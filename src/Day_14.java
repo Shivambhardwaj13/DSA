@@ -33,8 +33,7 @@ welcometojava
 3
 Sample Output
 
-ava
-wel
+avawel
  */
 
 
